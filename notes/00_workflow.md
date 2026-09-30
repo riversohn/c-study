@@ -62,6 +62,6 @@ git push
 - 실행 버튼 대신 3번 명령으로 컴파일·실행
 - 디버거 화면 대신 4번 gdb 사용
 
-## 8. 막혔던 것
+## 기타
 - `undefined reference to 'main'`: 파일 저장 안 함. Ctrl + S 후 `cat 파일.c`로 내용 확인
 - `code .` 했는데 윈도우 폴더가 열림: /mnt/c 위치에서 실행했기 때문. `cd ~` 후 `pwd`로 /home/river 확인하고 실행
