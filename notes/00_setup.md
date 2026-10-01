@@ -57,7 +57,7 @@ git push
 - 메시지 예: `Add ch02 lecture code`, `Solve ch05 practice 01`
 
 ## 7. 강의(Visual Studio)와 다른 점
-- `scanf_s` → `scanf`로 쓰기
+- `scanf_s`-> `scanf`로 쓰기
 - `#define _CRT_SECURE_NO_WARNINGS` 줄은 빼기
 - 실행 버튼 대신 3번 명령으로 컴파일·실행
 - 디버거 화면 대신 4번 gdb 사용
