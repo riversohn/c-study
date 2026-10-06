@@ -35,4 +35,4 @@
 ## 6.디버거
 - `gdb -tui ./파일.out`
 - `break main` -> `run` -> `next` -> `print x`-> `quit`
-- `print &x`: x의 주소 → `(int *) 0x7fff...` 
+- `print &x`: x의 주소 -> `(int *) 0x7fff...` 
