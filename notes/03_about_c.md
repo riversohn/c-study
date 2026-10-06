@@ -25,8 +25,7 @@
 - 한 줄 주석: //
 
 ## 5. 함수
-> 참고 코드: [03_05_function.c]
-> 참고 코드: [03_05_prototyping.c]
+> 참고 코드: [03_05_function.c] [03_05_prototyping.c]
 
 - 정의(definition): 함수가 실제로 하는 일을 작성한 부분
 - 호출(call, invoke): `hello();`처럼 함수를 실행하는 것
